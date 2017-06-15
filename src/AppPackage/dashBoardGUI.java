@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 package AppPackage;
 
@@ -18,9 +13,8 @@ import org.jfree.ui.ApplicationFrame;
 import org.jfree.ui.RefineryUtilities;
 import org.jfree.util.Rotation;
 
-/**
- *
- * @author AB
+/*
+ * @author Mosaku Abayomi
  */
 public class dashBoardGUI extends javax.swing.JFrame {
 
